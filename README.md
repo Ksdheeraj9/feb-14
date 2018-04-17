@@ -5,6 +5,7 @@ d3.js
 <B>Technologies used:</B>
  <li> Html</li>
  <li> D3 javascript </li>
+ <li> jQuery </li>
  <li> bootstrap </li>
  <li> CSS </li>
  
